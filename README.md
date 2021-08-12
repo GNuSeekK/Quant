@@ -5,6 +5,7 @@
 * 2021-08-05 : WICS분류별 pbr그래프 오류 수정
 * 2021-08-09 : colorbar 넣는 함수 추가
 * 2021-08-10 : 관리를 위해 colorbar함수에서 custom_pyplot_colorbar 클래스로 변경
+* 2021-08-12 : seaborn의 히트맵을 이용해 WICS 분류별로 영향을 주는 지표 파악
 
 ### 구성
 * MultiProcessing을 통한 빠른 크롤링 구현
